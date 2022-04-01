@@ -4,6 +4,7 @@ public class A extends B{
 
 	private void empInfo() {
 		System.out.println("Employee Info");
+	System.out.println("Employee code");
 	}
 	private void empName() {
 		System.out.println("Naresh");
